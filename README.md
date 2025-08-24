@@ -7,17 +7,21 @@ Luiz Fillip Rodrigues Vital
 O objetivo do curso é capacitar os participantes a compreender os conceitos fundamentais da linguagem de programação Python e a aplicá-los na resolução de problemas por meio do desenvolvimento de algoritmos e da utilização adequada de estruturas de dados.
 
 ## Público-alvo
+
 O curso é voltado para estudantes de graduação, mestrado e doutorado que desenvolvem pesquisas em geociências com ênfase em física espacial. 
 
 ## Metodologia
+
 As aulas serão conduzidas de forma expositiva e dialogada, utilizando o ambiente de programação Jupyter Notebook para facilitar a interação com os códigos e a visualização dos resultados via Google Meet. Durante os encontros, os estudantes reproduziram os exercícios realizados, compilando os códigos em seus próprios computadores. Além disso, serão desenvolvidas atividades orientadas com o uso de bancos de dados abertos e/ou dados provenientes de pesquisas realizadas pelos próprios estudantes, estimulando a aplicação dos conhecimentos em contextos reais e alinhados às suas áreas de pesquisa.
 
 ## Recursos didáticos
+
 - Slides explicativos;
 - Cadernos Jupyter e/ou arquivos .py;
 - Repositório no GitHub (https://github.com/LuizFillip) com códigos e exercícios.
 
 ## Conteúdo Programático
+
 ### Módulo 1 – Fundamentos de Python (4h)
 
 - Instalação e uso de ambientes (Distribuição Anaconda, Jupyter Notebook, Spyder)
@@ -27,6 +31,7 @@ As aulas serão conduzidas de forma expositiva e dialogada, utilizando o ambient
 - Funções internas úteis e bibliotecas nativas.
 
 ### Módulo 2 – Análise de dados (6h)
+
 - Introdução às principais bibliotecas para análise de dados;
 - Manipulações matemáticas com “arrays” (biblioteca Numpy);
 - Operações e filtragem dados com o “Data Frame” (Biblioteca Pandas);

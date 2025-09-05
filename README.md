@@ -18,7 +18,7 @@ As aulas serão conduzidas de forma expositiva e dialogada, utilizando o ambient
 
 - Slides explicativos;
 - Cadernos Jupyter e/ou arquivos .py;
-- Repositório no GitHub (https://github.com/LuizFillip) com códigos e exercícios.
+- Repositório no GitHub ([https://github.com/LuizFillip](https://github.com/LuizFillip/Curso-de-Python--UEPB)) com códigos e exercícios.
 
 ## Conteúdo Programático
 
@@ -34,9 +34,9 @@ As aulas serão conduzidas de forma expositiva e dialogada, utilizando o ambient
 
 - Introdução às principais bibliotecas para análise de dados;
 - Manipulações matemáticas com “arrays” (biblioteca Numpy);
+- Visualização e plotagem de dados (Biblioteca Matplotlib);
 - Operações e filtragem dados com o “Data Frame” (Biblioteca Pandas);
 - Ferramentas estatísticas e matemáticas (Biblioteca Scipy e Numpy); 
-- Visualização e plotagem de dados (Biblioteca Matplotlib);
 - Mapas (biblioteca Cartopy).
 
 ### Módulo 3 – Técnicas numéricas e análise de sinais aleatórios (6h)

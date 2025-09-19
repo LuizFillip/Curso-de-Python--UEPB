@@ -39,23 +39,13 @@ As aulas serão conduzidas de forma expositiva e dialogada, utilizando o ambient
 - Ferramentas estatísticas e matemáticas (Biblioteca Scipy e Numpy); 
 - Mapas (biblioteca Cartopy).
 
-### Módulo 3 – Técnicas numéricas e análise de sinais aleatórios (6h)
+### Módulo 3 – Técnicas numéricas e análise de séries temporais (6h)
 
 - Técnicas de pré-processamento e filtragem de séries temporais;
 - Periodograma de Lomb-Scargle, Analise de Wavelet e outras técnicas de análise de sinais;
 - Métodos numéricos: Resolução de equações diferenciais, interpolação, derivação e integração;
-- Introdução ao aprendizado de máquina e modelagem preditiva
-
-### Módulo 4 – Leitura e Processamento de dados espaciais (4h)
-
-- Introdução a bibliotecas especificas: PySat, HelioSat, Pyglow (IRI-2016, HWM-14, MSIS-00) e entre outras;
+- Introdução a bibliotecas especificas: PySat, HelioSat, Pyglow (IRI-2016, HWM-14, MSIS-00);
 - Biblioteca Xarray para leitura e manipulação de arquivos NetCDF;
-- Manipulação de dados baseados em satélites: COSMIC, TIMED, GOLD e entre outros;
-- Manipulação de dados baseados em solo: Imageadores All-Sky, radares, ionossondas e interferômetros. 
-
-## Avaliação
-- Participação nas aulas;
-- Projeto final de análise de dados geofísicos referente a pesquisa dos estudantes.
 
 ## Referencias 
 - SANTOS, José Guilherme Martins dos; SIMÕES, Jonatas Leon Dias Ribeiro; RAMOS, Diogo Nunes da Silva; EICHHOLZ, Cristiano Wickboldt. Aplicações de Python em Geociências. [S.l.]: [s.n.], [2022].
